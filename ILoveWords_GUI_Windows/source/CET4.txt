@@ -1,0 +1,1162 @@
+abandon  [4'b1nd4n]
+vt. 丢弃;遗弃;放弃
+abandoned  [4'b1nd4nd]
+adj. 被抛弃的
+ability  [4'biliti]
+n. (U)能力,本领;(C)才能,才智
+able  ['eib4l]
+adj. 能够…的,有能力的
+abnormal  [1b'n3:m4l]
+adj. 反常的,异常的
+aboard  [4'b3:d]
+adv./prep. 在船(或飞机、车)上; 上(船/飞机/车)
+abroad  [4'br3:d]
+adv. 到国外,在国外;在传播
+absence  ['1bs4ns]
+n. 不在,缺席;缺席的时间,外出期;缺乏,不存在
+absent  ['1bs4nt, 4b'sent]
+adj. 缺席的;缺乏;心不在焉的
+absolute  ['1bs4lu:t]
+adj. 绝对的,完全的;不受任何限制的
+absorb  [4b's3:b]
+vt. 吸收;吸引…的注意,使全神贯注
+abstract  ['1bstr1kt]
+adj. 抽象的 n. 摘要 vt. 做…的摘要;提(抽)取
+abundant  [4'b8nd4nt]
+adj. 大量的,充足的;(in)丰富的,富裕的
+abuse  [4'bju:z]
+n. /vt. 滥用;虐待;辱骂,毁谤
+academic  [`1k4'demik]
+adj. 学院的,学术的,纯理论的 n. 大学教师
+academy  [4'k1d4mi]
+n. 研究院,学会;(中等以上)专门学校
+accelerate  [4k'sel4reit]
+v. (使)加快,(使)增速;
+accent  ['1ks4nt, 1k'sent]
+n. 口音,腔调;重音;重音符号 vt. 重读
+acceptance  [4k'sept4ns]
+n. 接受;承认,赞同;容忍
+access  ['1kses]
+vt. 存取(计算机文件) n. 通道,入口;接近,进入;(to)接近(或进入、享用)的机会
+accident  ['1ksid4nt]
+n. 意外遭遇,事故;意外,意外因素
+accidental  [`1ksi'dentl]
+adj. 偶然(发生)的;意外的
+accommodation  [4`k3m4'dei54n]
+n. (常pl. )住处,膳宿
+accompany  [4'k8mp4ni]
+vt. 陪伴,陪同;伴随,和…一起发生; (on/at)为…伴奏/伴唱
+accomplish  [4'k8mpli5]
+vt. 达到(目的),完成(任务),实现(诺言)
+accord  [4'k3:d]
+vi. 相一致,相符合 vt. 授予,赠与;n. 一致,符合;(尤指国与国之间的)谅解
+accordance  [4'k3:d4ns]
+n. 符合，一致,和谐
+accordingly  [4'k3:di6li]
+adv. 照着,相应地;因此,于是
+account  [4'k2unt]
+n. 叙述,报告;账,账户;解释,说明 vi. (for)说明…的原因;(数量,比例)占
+accountant  [4'kaunt4nt]
+n. 会计人员,会计师
+accumulate  [4'kju:mjuleit]
+vt. 积累,积聚 vi. 累积,聚积
+accuracy  ['1kjur4si]
+n.准确(性),精确(性)
+accurate  ['1kjurit]
+adj. 精确的,准确的
+accuse  [4'kju:z]
+vt. 指责;指控
+accustomed  [4'k8st4md]
+adj. (to)习惯的,适应了的;惯常的
+achieve  [4't5i:v]
+vt. 完成,实现;达到,获得 vi. 成功
+achievement  [4't5i:vm4nt]
+n. (C)成绩,成就;(U)实现,完成,达到
+acid  ['1sid]
+n. 酸,酸性物质 adj. 酸的;尖刻的,刻薄的
+acknowledge  [4k'n3lid9]
+vt. 承认;告知(信件,礼物等)收到;致谢
+acquaintance  [4'kweint4ns]
+n. 相识的人,熟人;认识,了解
+acquire  [4'kw2i4]
+vt. 取得,获得,学到
+acquisition  [`1kwi'zi54n]
+n. 获得,取得;获得物,增添的人(或物)
+acre  ['eik4]
+n. (C)英亩
+action  ['1k54n]
+n. 行动,行为;作用;情节
+activity  [1k'tiviti]
+n. 活动;活跃
+actually  ['1kt5u4li]
+adv. 实际上
+acute  [4'kju:t]
+adj. 严重的,激烈的;敏锐的;(疾病)急性的;尖的,锐的
+ad  [1d]
+n. 广告
+adapt  [4'd1pt]
+vt. 使适应,使适合;修改,改编 vi. (to) 适应
+addition  [4'di54n]
+n. (U)加,加法;(C)增加的人(或物)
+additional  [4'di54n4l]
+adj. 添加的,额外的
+address  [4'dres]
+n. 地址;演说,讲话 vt. 写姓名地址;向…讲话,对…发表演说
+adequate  ['1dikwit]
+adj. 充足的,足够的;适当的,胜任的
+adjust  [4'd98st]
+vt. 校正,调整;调节,改变…以适应 vi. (to)适应
+administration  [4d`minis'trei54n]
+n. 管理,经营;管理部门, 行政机关,政府;实行,执行
+admission  [4d'mi54n]
+n. 准许进(加)入;入场费,入场券;承认,供认
+admit  [4d'mit]
+v. 承认,供认;准许…进入,准许…加入
+adopt  [4'd3pt]
+vt. 收养;采纳,采用;正式通过,批准
+advanced  [4d'va:nst]
+adj. 超前的,先进的;高级的,高等的;年迈的
+advantage  [4d'va:ntid9]
+n. 有利条件,优点;好处,利益
+adverb  ['1dv4:b]
+n.副词, 缩写形式为adv.
+advertise  ['1dv4t2iz]
+vt. 做广告,公告 vi. (for)做广告,登公告
+advertisement  [4d'v4:tism4nt]
+n. 广告,公告,启事;广告活动,宣传
+advisable  [4d'v2iz4bl]
+adj. 可取的,适当的
+advocate  ['1dv4kit]
+vt. 拥护,提倡 n. 拥护者,提倡者 ;律师
+aeroplane  [e4r4plein]
+n. 飞机
+affect  [4'fekt]
+vt. 影响;(在感情方面)打动
+affection  [4'fek54n]
+n. 喜爱,感情
+afford  [4'f3:d]
+vt. 买得起,担负得起;提供,给予
+afterward(s)  ['1ft4w4d(z),'2:ft4w4d(z)]
+adv. 以后，过后，后来
+agency  [eid94nsi]
+n. 代理(处),代办处
+agenda  [4'd9end4]
+n. 议事日程
+agent  ['eid94nt]
+n. 代理(商),经纪人;政府特工,政府代表;动因,原因;剂
+aggressive  [4'gresiv]
+adj. [贬]侵略的,好斗的; [褒]敢做敢为的,有进取心的
+agree  [4'gri:]
+v. 同意,赞同;相同,一致;(气候,食物等)相宜
+agreement  [4'gri:m4nt]
+n. 协定,协议;达成协议,同意;一致
+agriculture  ['1grik8lt54]
+n. 农业,农学
+aid  [eid]
+vt. 帮助;援助 n. 帮助,援助;助手,辅助物,辅助手段
+aim  [eim]
+v. 对准,瞄准;致力,旨在 n. 目标,目的,瞄准,对准
+aircraft  ['e4kra:ft]
+n. 飞机,航空器
+airline  ['e4l2in]
+n. (常pl.)航空公司
+alarm  [4'la:m]
+n. 报警器,闹钟;惊恐,忧虑 vt. 使惊恐;向…报警
+alcohol  ['1lk4h3l]
+n. 含酒精的饮料,酒精
+alert  [4'l4:t]
+adj. 留神的;警觉的 n. 警戒(状态);警报 vt. 向…报警,使…警惕
+alike  [4'laik]
+adj.同样的，相像的；adv.①一样地，相似地②同样程度地
+alive  [4'l2iv]
+adj. 活着的;存在的;热闹的,活跃的;敏感的;充满的
+alliance  [4'l2i4ns]
+n. 结盟,联盟,联姻
+allocate  ['1l4keit]
+vt. 分配,分派,把…拨给
+allow  [4'l2u]
+vt. 准许,允许;同意给;承认
+allowance  [4'l2u4ns]
+n. 津贴,补贴,零用钱
+ally  ['1l2i, 4'l2i]
+n. 同盟国,同盟者;支持者 v. (with)结盟
+along  [4'l36]
+adv. 向前地;一道,一起 prep. 沿着
+alongside  [4l36's2id]
+adv. 在旁边,沿着边,并排地; prep. 在…旁边,沿着…的边;和…在一起;和…相比
+aloud  [4'l2ud]
+adv. 出声地,大声地
+alphabet  ['1lf4bet]
+n. 字母表
+alter  ['3:lt4]
+vt. 改变,变更
+alternative  [3:l't4:n4tiv]
+adj. 两者择一的,供选择的;另类的 n. 供选择的东西;取舍,选择
+altitude  ['1ltitju:d]
+n. 高度,海拔;(常pl. )高处,高地
+aluminium  [4'lumin4m]
+n. 铝
+amateur  ['1m4t4,`1m4't4:]
+n. 业余爱好者;外行 adj. 业余(爱好)的
+amaze  [4'meiz]
+vt. 使…惊奇,惊愕
+ambassador  [1m'b1s4d4]
+n. 大使,派驻国际组织的代表
+ambition  [1m'bi54n]
+n. 雄心,野心
+ambulance  ['1mbjul4ns]
+n. 救护车
+amid  [4'mid]
+prep. 在…中间,被…围绕
+amount  [4'm2unt]
+n. 数量,总额 vi. (to)合计,共计;等同,接近
+amuse  [4'mju:z]
+vt. 逗乐,逗笑;给…提供娱乐/消遣
+analysis  [4'n1l4sis]
+n. 分析,分析报告
+analyze  ['1n4l2iz]
+vt. 分析,细察,细查
+ancestor  ['1ns4st4]
+n. 祖宗,祖先;原型
+anchor  ['16k4]
+n. 锚;给人安全感之物/人 v. 停泊;固定;担任主持人
+anger  ['16g4]
+n. 怒,愤怒 vt. 使发怒,激怒
+angle  ['16g4l]
+n. 角,角度;立场,观点
+angry  ['16gri]
+adj. 愤怒的,生气的
+ankle  ['16k4l]
+n. (脚)踝,踝关节
+anniversary  [`1ni'v4:s4ri]
+n. 周年,周年纪念日
+announce  [4'n2uns]
+vt. 宣告,宣布,声称;宣布…的到达(或出席),预告
+annoy  [4'n3i]
+vt. 使恼怒,使烦恼;打扰,干扰
+annual  ['1nju4l]
+adj. 每年的,年度的 n. 年报,年刊,年鉴
+ant  [1nt]
+n.蚂蚁
+Antarctic  [1n't2:ktik]
+a./n. 南极的,南极
+anticipate  [1n'tisipeit]
+vt. 预料,期望;预先做,提前使用
+antique  [1n'ti:k]
+n. 古董 adj. 古老的,古时的
+anxiety  [16'z2i4ti]
+n. 焦虑,挂虑;渴望,热望
+anxious  ['16k54s]
+adj. 焦虑的,发愁的,令人焦急的;渴望的,急切的
+anyhow  ['enih2u]
+adv. 不管怎么说,无论如何,总之
+anyway  ['eniwei]
+adv. 不管怎么说,无论如何,至少
+apart  [4'pa:t]
+adv. [空间,时间上]相间隔;分离,离开,隔开
+apartment  [4'pa:tm4nt]
+n. 房间;(美)一套公寓房间
+apologize  [4'p3l4d92iz]
+vi. 道歉,认错, 谢罪
+apology  [4'p3l4d9i]
+n. 道歉,认错
+apparent  [4'p1r4nt]
+adj. 表面上的,貌似(真实)的;显然的,明白的,清晰可见的
+appeal  [4'pi:l]
+vi. 呼吁,恳求;上诉,申诉;(to)诉诸,求助于;吸引 n. 呼吁,恳求;吸引力;申诉,上诉
+appear  [4'pi4]
+vi. 出现,显露,来到;看起来像,似乎;产生,发表,问世
+appetite  ['1pit2it]
+n. 食欲,胃口;欲望
+applause  [4'pl3:z]
+n. 鼓掌,掌声
+appliance  [4'plai4ns]
+n. 器具,器械,装置
+applicable  ['1plik4b4l]
+adj. 可应用的,可实施的;适当的,合适的
+applicant  ['1plik4nt]
+n. 申请人
+application  [`1pli'kei54n]
+n. 申请(表/书);应用,实施;施用,敷用,涂沫
+apply  [4'pl2i]
+vi. 申请,请求;适用 vt. 使用,运用,实施;涂,敷,施
+appoint  [4'p3int]
+vt. 委派,任命 ;约定,确定,指定
+appointment  [4'p3intm4nt]
+n. 任命,委派;约会,约定;委任的职位
+appreciate  [4'pri:5ieit]
+vt. 重视,欣赏;领会,意识到;为…表示感谢
+approach  [4'pr4ut5]
+v. 靠近,接近 n. 接近;途径;方式,方法
+appropriate  [4'pr4upriit, 4'pr4uprieit]
+adj. 适当的,适当的 vt. 私占,侵吞,挪用;拨出(款项等)供专用
+approval  [4'pru:v4l]
+n. 赞成,同意;批准,认可
+approve  [4'pru:v]
+vt. 赞成,同意;批准,核准
+approximate  [4'pr3ksimit]
+adj. 大概的,近似的,大约的 v. 近似,接近;估计
+Arabian  [4'reibj4n]
+adj.阿拉伯的;n.阿拉伯人
+arbitrary  ['a:bitr4ri]
+adj. 随意的,任意的;专断的,专制的
+architect  ['a:kitekt]
+n. 建筑师,设计师,缔造者
+architecture  ['2:kitekt54]
+n. 建筑(学/业);建筑式样,建筑风格
+arctic  ['2:ktik]
+a./n. 北极的,北极
+argue  ['a:gju:]
+vi. 争论,争吵,争辩 vt. 证明,主张;说服
+arise  [4'r2iz]
+vi. 出现,发生(from);由…引起,起源于
+arithmetic  [4'ri7m4tik]
+n.算术
+arouse  [4'r2uz]
+vt. 引起,激起;唤醒
+arrange  [4'reind9]
+v. 安排,准备,筹划;整理,排列,布置
+arrest  [4'rest]
+vt. /n. 逮捕,拘留,扣留
+arrival  [4'r2iv4l]
+n. [抽象]到达,到来;[具体]到达的人或者物
+arrive  [4'r2iv]
+vi. 到来,到达;(时间等)来临;(at)达成,得出
+arrow  ['1r4u]
+n.①箭，矢，箭状物②箭头符号
+article  ['a:tik4l]
+n. (物品的)一件,物件,商品;文章;条款,规定
+artificial  [`a:ti'fi54l]
+adj. 人工的,人造的;[喻]假的,矫揉造作的,模拟的
+artistic  [2:'tistik]
+adj.①艺术(家)的,美术(家)的②富有艺术性的,精彩的
+artistic  [2:'tistik]
+adj.①艺术(家)的,美术(家)的②富有艺术性的,精美的，精彩的
+ash  [15]
+n. 灰,灰烬;(pl. )骨灰,遗骸
+ashamed  [4'5eimd]
+adj. 惭愧的,羞耻的,害臊的
+Asia  ['ei54]
+n.亚洲
+Asian  ['ei54n]
+n. 亚洲人;adj. 亚洲的,亚洲人的
+aside  [4's2id]
+adv. 在旁边,到(或向)一边
+aspect  ['1spekt]
+n. 方面;(建筑物的)朝向,方向;面貌,外观
+assemble  [4'semb4l]
+vt. 集合,聚集,召集;装配 vi. 集合,聚集
+assembly  [4'sembli]
+n. 立法机构,议会;集会,集合,集会的人们;组装,装配
+assess  [4'ses]
+vt. 对…估价,确定…的数额;评价,评论
+asset  ['1set]
+n. 有价值的人(或物),优点,长处;(pl. ) 资产
+assign  [4's2in]
+vt. 指派,选派;指定;分配,布置
+assignment  [4'sainm4nt]
+n. (分派的)任务,(指定的)作业;分配,指派
+assist  [4'sist]
+vt. 协助,帮助
+assistance  [4'sist4ns]
+n. 帮助,援助
+assistant  [4'sist4nt]
+n. 助理,助手,助教 adj. 助理的,辅助的
+associate  [4's4u5ieit]
+vt. 把…联系在一起;使结合 vi. (with)交往 n. 伙伴 adj. 副的
+association  [4`s4usi'ei54n]
+n. 联盟,协会,社团;交往,联合,结合
+assume  [4'sju:m]
+vt. 假定,设想;承担,担任;呈现,具有
+assumption  [4's8mp54n]
+n. 假定,臆断;担任,承担
+assure  [4'5u4]
+vt. 使确信,使放心;向…保证,保证给
+astonish  [4'st3ni5]
+vt. 使惊讶
+athlete  ['17lit, '17li:t]
+n. 运动员,体育家
+Atlantic  [4t'l1ntik]
+adj.大西洋的;n.(the) 大西洋
+atmosphere  ['1tm4sfi4]
+n. 大气层,大气;空气;环境,气氛
+atomic  [4't3mik]
+adj. (关于)原子的;原子能的,原子武器的
+attach  [4't1t5]
+vt. 系,贴,连接;使喜爱,使依恋;认为有(重要性,责任等);使附属
+attack  [4't1k]
+n./vt. 攻击,非难,疾病发作
+attain  [4'tein]
+vt. 达到,获得
+attempt  [4'tempt]
+vt./n. 企图,试图,努力
+attend  [4'tend]
+vt. 出席,参加,上(学等);照料,看管 vi. (to)专心于,致力于
+attention  [4'ten54n]
+n. 注意,专心,留心;立正姿势,立正口令
+attitude  ['1titju:d]
+n. 态度,看法;姿态,姿势
+attorney  [4't4:ni]
+n. 律师,代理人
+attract  [4'tr1kt]
+vt. 吸引,引起…注意
+attraction  [4'tr1k54n]
+n. 吸引,吸引力,诱惑力;具有吸引力的事物(或人)
+attractive  [4'tr1ktiv]
+adj. 有吸引力的,引起注意的
+attribute  [4'tribju:t]
+vt. (to) 把…归因于,把(过错、责任等)归咎于 n. 属性,特性
+audience  ['3:di4ns]
+n. 听众,观众,读者
+audio  ['3:di`4u]
+adj. 听觉的,音频的
+Australia  [3'streili4]
+n. 澳大利亚
+author  ['3:74]
+n. 作家,著作家;发起人,创始人
+authority  [3:'73riti]
+n. 权力,管辖权;(pl.)官方,当局;当权者,行 政管理机构;权威,专家
+auto  ['3:t4u]
+n. 汽车
+automatic  [`3:t4'm1tik]
+adj. 自动的;不假思索的;必然的,自然的 n. 自动手枪/步枪,有自动装置的汽车
+automobile  ['3:t4m4bi:l]
+n. 汽车(缩写为auto)
+auxiliary  [3:g'zilj4ri]
+adj. 辅助的,补助的;备用的
+available  [4'veil4b4l]
+adj. 现成可使用的,可利用的,可获得的; 可取得联系的
+avenue  ['1v4nju:]
+n. 林荫路,大街
+avoid  [4'v3id]
+vt. 避免,预防,避开
+await  [4'weit]
+vt. 等候,期待,期望;将降临到…身上
+awake  [4'weik]
+adj. [表语]醒着的 vt. 唤醒,觉醒 vi. 醒,觉醒,意识到
+award  [4'w3:d]
+vt. 授予,给予;判给,裁定 n. 奖品,奖金
+aware  [4'we4]
+adj. 意识到,知道的
+awful  ['3:ful]
+adj. 极坏的,可怕的;(感到)难过的,不舒服的;非常的,极大的
+awkward  ['3:kw4d]
+adj. 尴尬的,棘手的;难操纵的,使用不便的; 笨拙的,不灵巧的
+ax(e)  [1ks]
+n.斧子
+background  ['b1kgr2und]
+n. 出生背景,经历;背景资料;(画等的)背景,房子
+backward  ['b1kw4d]
+adj. 向后的,反向的;落后的,进步慢的 adv. [-(s)]向后,往回;朝反方向,倒
+bacon  ['beik4n]
+n. 咸肉,熏肉
+bacteria  [b1k'ti4ri4]
+n. (pl.)细菌
+badminton  ['b1dmint4n]
+n. 羽毛球,羽毛球运动
+baggage  ['b1gid9]
+n. (美)行李
+bake  [beik]
+vt. 烘,焙,烤
+balance  ['b1l4ns]
+n. 平衡;天平 vt. 使平衡;称;权衡
+balcony  ['b1lk4ni]
+n. 阳台;(电影院等的)楼厅,楼座
+ball  [b3:l]
+n. (盛大,正式的)舞会,球,球状物 vt. 把…捏成球状
+balloon  [b4'lu:n]
+n. 气球
+ban  [b1n]
+vt. 取缔,查禁;(from)禁止 n. 禁止,禁令
+band  [b1nd]
+n. 管乐队;群,伙;带,箍;条纹;波段,频带 v. 用带绑扎
+bang  [b16]
+n. 巨响;猛击 vi. 猛击;砰砰作响 vt. 砰地敲(或推、扔);猛击
+bankrupt  ['b16kr8pt]
+adj. 破产的,彻底失败的;彻底缺乏的 n. 破产者 vt. 使破产,使枯竭
+banner  ['b1n4]
+n. 横幅;旗,旗帜
+bar  [ba:]
+n. 酒吧,售酒柜台;条,块;闩,栅栏 vt. 闩,在…设栅栏;阻止,拦阻;封锁
+barber  ['ba:b4]
+n. 理发师
+bare  [be4]
+adj. 赤裸的;光秃秃的;刚刚够的,勉强的 vt. 露出,暴露
+barely  ['be4li]
+adv. 仅仅,只不过,几乎不
+bargain  ['ba:gin]
+n. 特价商品,便宜的东西;协议,交易 v. 讨价还价
+bark  [ba:k]
+vi. (狗等)吠,叫 n. 吠声,叫声;树皮
+barn  [ba:n]
+n. 谷仓,牲口棚
+barrel  ['b1r4l]
+n. 桶;筒,枪(或炮)管 vi. 快速移动
+barrier  ['b1ri4]
+n. 栅栏,关卡,检票口;屏障;障碍,隔阂
+baseball  [beisb3:l]
+n. 棒球(运动)
+basically  ['beisik4li]
+adv.基本上，从根本上说
+basin  ['beis4n]
+n. 脸盆,盆;水池,水洼;流域
+basis  ['beisis]
+n. 根据,基础,原则
+bat  [b1t]
+n.①蝙蝠②球棒，球拍
+bathe  [bei0]
+vt. 给…洗澡 vi. 洗澡;游泳
+bathroom  ['ba:7rum]
+n. 浴室;盥洗室
+battery  ['b1t4ri]
+n. 电池(组);一系列,一套
+bay  [bei]
+n. 湾;(大厅等的)分隔间
+beam  [bi:m]
+n. 束,柱;梁,横梁 vt. 播送
+bean  [bi:n]
+n. 豆
+bear  [be4]
+vt. 忍受;承担;结(果实),生(孩子) n. 熊;(对股市行情)看跌的人
+beard  [bi4d]
+n. 胡须
+bearing  ['be4ri6]
+n. 举止,风度;(pl. )方位,方向感;轴承
+beast  [bi:st]
+n. 野兽,牲畜;凶残的人,令人厌憎的人
+beef  [bi:f]
+n. 牛肉
+beggar  ['beg4(r)]
+n. 乞丐vt. 使贫穷
+behalf  [bi'ha:f]
+n. 利益,方面
+behave  [bi'heiv]
+vi. 表现,举止;运转 vt. (oneself)检点(自己的)行为
+behaviour  [bi'heivj4]
+n. 行为,表现,举止;运转情况,(事物的)反应
+being  ['bi:i6]
+n. 生物,人;存在
+belief  [bi'li:f]
+n. 相信,信任;信念,信仰
+beloved  [bi'l8vd]
+adj. 所钟爱的,受爱戴的; 爱人
+beneath  [bi'ni:7]
+prep. 在…下面,往…下面adv. 在下方,在底下
+benefit  ['benifit]
+n. 好处;救济金,保险金 vt. 有益于 vi. 得益
+beneficial  [`beni'fi54l]
+adj. 有益的,有利于
+besides  [bi's2idz]
+adv. 而且,此外(还);prep. 除…之外(还有别的)
+bet  [bet]
+vt. 打赌;敢说,确信 vi. 打赌 n. 打赌;赌金,赌注
+bible  ['b2ibl]
+n. 圣经;有权威的书
+bid  [bid]
+n. 企图,努力;喊价,出价 vi. 喊价,出价,投标 vt. 出(价),喊(价);命令,吩咐
+billion  ['bilj4n]
+n. 十亿
+bind  [b2ind]
+vt. 捆绑,捆扎;使结合,使粘合;约束;装订
+biology  [b2i'3l4d9i]
+n. 生物学
+bite  [b2it]
+v. 咬,叮 n. 咬,叮
+bitter  ['bit4]
+adj. 充满仇恨的,激烈的;令人不快的;寒冷入骨的;有苦味的
+bitterly  ['bit4li]
+adv.苦涩地;惨痛地,痛苦地
+blade  [bleid]
+n. 刀刃,刀片
+blame  [bleim]
+vt. 责备;(on,onto)把…归咎于 n. (过错等的)责任;责怪,责备
+blank  [bl16k]
+adj. 空白的,空着的;[喻]茫然的,无表情的 n. 空白处;空白表格
+blast  [bla:st]
+n. 爆炸;一阵(疾风等),一股(强烈的气流) vt. 炸,炸掉
+bleed  [bli:d]
+vi. 出血,流血 vt. 勒索…的钱
+blend  [blend]
+vt. (使)混和,(使)混杂 n. 混合物;混和,交融
+block  [bl3k]
+n. 一排房屋;街区;大块(木料,冰等);障碍(物) vt. 堵塞;阻碍
+blonde  [bl3nd]
+n. 金(浅)发女郎
+bloody  ['bl8di]
+adj. [用于加强语气]非常的,该死的;流血的; 残忍的 adv. 非常,很 vt. 使…为血所污,血染
+bloom  [blu:m]
+vi. 开花 n. 花;开花(期);青春焕发
+blouse  [blauz]
+n. 女衬衫
+blow  [bl4u]
+v. 吹(动);吹气,充气;吹响,吹奏;使爆炸 n. 一击,打击
+boast  [b4ust]
+vi. (of, about)自夸,夸耀 vt. 夸口,吹嘘;以拥有… 而自豪 n. 自吹自擂,自夸的话
+boil  [b3il]
+vi. 沸腾,开 vt. 煮沸,烹煮
+bold  [b4uld]
+adj. 勇敢的;卤莽的;粗体的,醒目的
+bolt  [b4ult]
+n. 螺栓;插销,闩 vt. 闩,拴住 vi. 冲出去,逃跑
+bomb  [b3m]
+n. 炸弹 vt. 轰炸,投弹于
+bond  [b3nd]
+n. 联结,联系;粘合剂;公债,债券;契约,合同;v. (使)粘合,(使)结合
+book  [buk]
+vt. 预订,预约 n. 书,书籍
+boom  [bu:m]
+n. 激增,繁荣,迅速发展;隆隆声 vi. 激增,繁荣,迅速发展;发出隆隆声
+boost  [bu:st]
+vt. 提高,使增长;推动,激励;宣扬,替…作广告 n. 提高,增涨;推动,促进
+boot  [bu:t]
+n. 靴;(汽车后部的)行李箱;[the ～]解雇
+border  ['b3:d4]
+n. 边缘,界线;边界,边境 vi. (on)近似,接近;与…接壤 vt. 给…加上边,围;邻接,毗邻
+bore  [b3:]
+vt. 使厌烦;钻(孔),挖(洞) n. 令人讨厌的人(或事)
+boring  ['b3:ri6]
+adj. 令人厌烦的,乏味的,无聊的
+bother  ['b304]
+vt. 打扰,麻烦 vi. 担心,烦恼 n. 烦恼,焦急;令人烦恼的人(或事物)
+bounce  [b2uns]
+v. (使)弹起,(使)反弹,(使)颠跳 n. 弹,反弹
+bound  [b2und]
+adj. 必然的;受约束的;(for, to)准备到…去的 vi. 跳跃;弹回 n. 跳跃;(pl.)界限
+boundary  ['baund4ri]
+n. 分界线,边界,界限
+bow  [b2u, b4u]
+n. 鞠躬;弓 vt. 低下(头),欠(身);压弯,使俯下 vi. 鞠躬,低头
+brake  [breik]
+n. 制动器,刹车 v. 刹车
+brand  [br1nd]
+n. 商标 vt. 打烙印于;加污名于,谴责
+brandy  ['br1ndi]
+n. 白兰地酒
+brass  [bra:s]
+n. 黄铜,黄铜器;铜管乐器
+breadth  [bred7]
+n. 宽度;幅度
+breast  [brest]
+n. 胸脯,乳房
+breathe  [bri:0]
+vi. 呼吸,喘气 vt. 呼吸,吸入,呼出;(低声地)说出
+breed  [bri:d]
+n. 种,品种 vi. 繁殖,产仔 vt. 饲养,繁殖;养育,培育;酿成,产生
+breeze  [bri:z]
+n. 微风,轻风
+brick  [brik]
+n. 砖 vt. (up)用砖砌,用砖堵住
+bride  [br2id]
+n. 新娘
+brief  [bri:f]
+adj. 短暂的;简洁的,简短的 vt. 向…介绍基本情况,作…的提要 n. 概要,摘要
+bright  [br2it]
+adj. 明亮的,晴朗的;聪敏的;欢快的;鲜艳的,清晰的
+brilliant  ['brili4nt]
+adj. 光辉的,灿烂的;卓越的,杰出的
+Britain  ['brit4n]
+n. 不列颠,英国(包括英格兰,威尔士和苏格兰)
+broadcast  ['br3:dka:st]
+n. 广播,广播节目 vt. 广播,播放
+broom  [bru:m]
+n. 扫帚
+brow  [br2u]
+n. 额;眉,眉毛
+bubble  ['b8b4l]
+n. 泡 vi. 冒泡
+bucket  ['b8kit]
+n. 水桶,吊桶
+budget  ['b8d9it]
+n. 预算,预算拨款 vi. (for)编预算,做安排 vt. 规划,安排 adj. 低廉的,收费公道的
+build  [bild]
+vt. 建造,修建;建立,创立 vi. 向顶点发展,增长 n. 体型,体格
+bulb  [b8lb]
+n. 球状物,球茎;电灯泡
+bulk  [b8lk]
+n. (巨大的)物体,(大)块;主体,绝大部分;(巨大的)体 积,(大)量 vi. 变得越来越大(或重要) vt. 使更大(或更厚)
+bullet  ['bulit]
+n.子弹
+bump  [b8mp]
+vi. (against, into)碰,撞;颠簸着前进 n. 碰撞,猛撞;肿块;隆起物
+bunch  [b8nt5]
+n. 群,伙;束,串,捆 vi. 集中,挤在一起 vt. 使成一束(或一群等)
+bundle  ['b8ndl]
+n. 捆,包,束 vt. 收集,归拢,把…塞入
+burden  ['b4:dn]
+n. 重担,精神负担;使重负,负荷 vt. 加重压于,烦扰;负重,装载
+bureau  ['bju4r4u]
+n. 局,办事处,分社
+business  ['biznis]
+n. 交易,营业(额);工商企业,商店;职业,工作,任务;事务
+butterfly  ['b8t4fl2i]
+n. 蝴蝶
+cab  [k1b]
+n. 出租汽车;司机室,驾驶室
+cabbage  ['k1bid9]
+n. 卷心菜,洋白菜
+cabbage  ['k1bid9]
+n.卷心菜，洋白菜
+cabin  ['k1bin]
+n. 小木屋;机舱,船舱
+cabinet  ['k1binit]
+n. 贮藏橱,陈列柜;内阁
+cable  ['keib4l]
+n. 纲索,缆绳;(海底)电缆;电报;v. 给…发电报,用电报传送
+calculate  ['k1lkjuleit]
+vt. 计算,推算;估计;计划,打算
+calculator  ['k1lkjuleit4]
+n. 计算器
+calendar  ['k1lind4]
+n. 日历,月历
+camel  ['k1m4l]
+n.骆驼
+camp  [k1mp]
+n. 野营,营地;拘留营 vi. 野营,设营,宿营
+campaign  [k1m'pein]
+n. 运动;战役 vi. 参加(或发起)运动,参加竞选
+campus  ['k1mp4s]
+n. (大学)校园
+Canada  ['k1n4d4]
+n. 加拿大
+Canadian  [k4'neidi4n]
+adj. 加拿大的;加拿大人的; n. 加拿大人
+canal  [k4'n1l]
+n. 运河,沟渠
+cancel  ['k1ns4l]
+vt. 取消,废除;抵消;删去
+cancer  ['k1ns4]
+n. 癌
+candidate  ['k1ndideit]
+n. 候选人;报考者;申请求职者
+candy  ['k1ndi]
+n. 糖果
+capable  ['keip4b4l]
+adj. 有技能的,有能力的
+capacity  [k4'p1siti]
+n. 容量,容积;才能,能力
+capital  ['k1pitl]
+n. 资本,资金;首都,首府;大写字母 adj. 大写的;主要的
+captain  ['k1ptin]
+n. 上尉;队长,领队;船长,机长
+capture  ['k1pt54]
+vt. 捕获,俘获;夺得,占领 n. 捕获,俘获
+carbon  ['ka:b4n]
+n. 碳
+career  [k4'ri4]
+n. 职业 生涯
+cargo  ['ka:g4u]
+n. 货物
+carpenter  ['ka:pint4]
+n. 木工,木匠
+carriage  ['k1rid9]
+n. (火车)客车厢;马车
+carrier  ['k1ri4]
+n. 运输公司,运输工具;带菌者;载重架,置物架
+carrot  ['k1r4t]
+n. 胡萝卜
+cart  [ka:t]
+n. 大车,手推车
+cartoon  [ka:'tu:n]
+n. 漫画,幽默画;动画片
+cash  [k15]
+n. 钱,现款 vt. 把…兑现
+cashier  [k1'5i4]
+n. 出纳
+cassette  [k4'set]
+n. 盒式录音(或录像)带
+cast  [ka:st]
+vt. 投,扔;投射(光、视线等),把…加于;浇铸,铸造 n. 全体演员;石膏绷带;铸型,铸件;投,抛
+casual  ['k19u4l]
+adj. 漠不关心的,冷淡的;随便的,非正式的;偶然的,碰巧的;临时的,不定期的
+catalog  ['k1t4l3g]
+n. 目录(册);一系列 vt. 将…编入目录
+category  ['k1tig4ri]
+n. 种类,类,类别
+cautious  ['k3:54s]
+adj. 十分小心的,谨慎的
+cave  [keiv]
+n. 山洞,洞穴 vi. (in)塌落,倒坍
+cease  [si:s]
+v. /n. 停止,终止
+celebrate  ['selibreit]
+vt. 庆祝;颂扬,赞美 vi. 庆祝,过节
+cell  [sel]
+n. 细胞;小牢房,单人小室;电池;基层组织,小组
+cement  [si'ment]
+n. 水泥;胶结材料 vt. 粘结,胶合;巩固,使团结
+centigrade  ['sentigreid]
+adj. 摄氏的
+centigrade  ['sentigreid]
+adj.摄氏的
+centimeter  ['senti`mi:t4]
+n. 厘米(cm)
+central  ['sentr4l]
+adj. 中央的,核心的;位于中心的;主要的,起支配作用的
+ceremony  ['serim4ni]
+n. 典礼,仪式;礼节,礼仪
+certificate  [s4'tifikit, s4'tifik4t]
+n. 证(明)书,执照
+challenge  ['t51lind9]
+vt. 向…挑战;反对,公然反抗;对…质疑,对…怀疑 n. 艰巨的任务;怀疑,质问;挑战,邀请比赛
+chamber  ['t5eimb4]
+n. 会议厅,会所;(作特殊用途的)房间;腔,室
+champion  ['t51mpi4n]
+n. 冠军;捍卫者,拥护者
+channel  ['t51n4l]
+n. 沟渠;海峡,航道;频道;(常pl.)渠道,途径 vt. 形成航道,疏导
+chaos  ['kei3s]
+n. 混乱,紊乱
+chap  [t51p]
+n. (口)小伙子,男人,家伙
+chapter  ['t51pt4]
+n. 章,回,篇
+character  ['k1rikt4]
+n. 性格,品德;性质,特性;人物,角色;(书写或印刷)符号,(汉)字
+characteristic  [`k1rikt4'ristik]
+adj. 特有的,典型的 n. 特性,特征
+characterize  ['k1rikt4raiz]
+vt. 成为…的特征,以…为特征;描绘(人或物的)特性,描述
+charge  [t5a:d9]
+n. 价钱;指控;充电;掌管 vt. 索(价),要…支付;控告;使充电
+charity  ['t51riti]
+n. 救济金,施舍物;(常pl.)慈善团体,慈善事业;宽容,仁慈
+charm  [t5a:m]
+n. 迷人的特性,魅力;符咒,咒文 vt. 吸引,迷住
+charming  ['t52:mi6]
+adj. 迷人的,可爱的
+chart  [t5a:t]
+n. 图,图表;航图,海图 vt. 用图表表示,在图上表示
+charter  ['t5a:t4]
+vt. 包租 n. 宪章,共同纲领;授予特种权利的法令或正式文件;包租
+chase  [t5eis]
+n. /vt. 追逐,追捕,追求
+chat  [t51t]
+vi./n. 闲谈,聊天
+cheat  [t5i:t]
+vt. 欺骗,骗取 vi. 行骗,作弊 n. 欺骗,欺诈行为;骗子
+cheer  [t5i4]
+vt. (使)振奋,(使)高兴;向…欢呼 vi. 欢呼,喝彩 n. 欢呼,喝彩
+cheerful  ['t5i4ful]
+adj. 高兴的,欢乐的;使人感到愉快的
+chemical  ['kemik4l]
+adj. 化学的 n. 化学药品
+chemist  ['kemist]
+n. 化学家;药剂师,药商
+cheque  [t5ek]
+n. 支票
+chess  [t5es]
+n. 国际象棋,棋
+chew  [t5u:]
+v. 咀嚼,咬
+childhood  ['t52ildhud]
+n. 童年,幼年
+chill  [t5il]
+vt. 使变冷,使冷冻,使感到冷 n. 寒冷,寒气;风寒,寒战
+chimney  ['t5imni]
+n. 烟囱,烟道
+chin  [t5in]
+n. 下巴,颏
+china  ['t52in4]
+n. 瓷器
+Chinese  [`t5ai'ni:z]
+n. 中国人,中文;adj. 中国的
+chip  [t5ip]
+n. 碎片;(pl. )炸土豆条/片;集成电路片,集成块;缺口,瑕疵 vt. 削(或凿)下(屑片或碎片)
+choke  [t54uk]
+v. (使)窒息,呛;塞满,塞住
+chop  [t53p]
+vt. 砍,劈,斩 n. 排骨
+Christ  [kr2ist]
+n. 基督,救世主
+Christian  ['krist54n, 'kristj4n]
+n. 基督教徒 adj. 基督教(徒)的
+Christmas  ['krism4s]
+n. 圣诞节
+cigar  [si'ga:]
+n. 雪茄烟
+cigarette  ['sig4`ret, `sig4'ret]
+n. 香烟,卷烟
+circuit  ['s4:kit]
+n. 电路,线路;环行,环行道
+circular  ['s4:kjul4]
+adj. 圆形的,环形的;循环的,兜圈子的 n. 通知,通告
+circulate  ['s4:kjuleit]
+v. (使)循环,(使)流通;(使)流传,散布,传播
+circumference  [s4'k8mf4r4ns]
+n. 圆周,周长
+circumstance  ['s4:k4mst1ns, 's4:k4mst4ns]
+n. 环境,条件,形势;(pl. )境况, 经济状况
+cite  [s2it]
+vt. 引用,引证;传唤,传讯;表彰,嘉奖
+citizen  ['sitiz4n]
+n. 公民,市民
+civil  ['siv4l]
+adj. 公民的,国内的;平民的,民用的;民事的民法的;文明的,有教养的
+civilize  ['sivilaiz]
+vt. 使文明,使开化
+civilization  [`sivilai'zei54n]
+n. 文明,文化
+civilian  [si'vilj4n]
+n. 平民,百姓(与军人、警察相对而言)
+claim  [kleim]
+vt. 声称,断言;对…提出要求,索取 n. 要求,认领,索赔;声称,断言
+clap  [kl1p]
+vi./n. 鼓掌,拍手 vt. 拍,击
+clarify  ['kl1rif2i]
+vt. 澄清,阐明
+clash  [kl15]
+vi. /n. 发生冲突;不协调;砰地相撞,发出刺耳的撞击声
+classic  ['kl1sik]
+adj. 最优秀的;典型的,标准的;传统式样的,典 雅的 n. 名著,杰作;优秀的典范;(pl. )古典文学,古典语言研究
+classical  ['kl1sik4l]
+adj. 古典的,经典的
+classify  ['kl1sif2i]
+vt. 把…分类,把…分级
+classification  [`kl1sifi'kei54n]
+n. 分类，分级;类别，级别
+clause  [kl3:z]
+n. 条款;从句,分句
+claw  [kl3:]
+n. 爪,脚爪 v. (用爪)抓,撕
+clay  [klei]
+n. 粘土,泥土
+click  [klik]
+v. (使)发出咔哒声 n. 咔哒声
+client  ['kl2i4nt]
+n. 委托人,当事人,顾客
+cliff  [klif]
+n. 悬崖,峭壁
+climate  ['kl2imit]
+n. 气候,气候区;风气,气氛
+cloudy  [kl2udi]
+adj. 多云的;浑浊的;模糊不清的
+clue  [klu:]
+n. 线索,提示
+clumsy  ['kl8mzi]
+adj. 笨拙的,愚蠢的;不得体的
+coach  [k4ut5]
+n. 教练,指导;长途公共汽车;(铁路)旅客车厢 vt. 训练,指导
+coarse  [k3:s]
+adj. 粗的,粗糙的;粗劣的;粗俗的
+code  [k4ud]
+n. 准则,法规;密码,代码 vt. 把…编码
+coil  [k3il]
+n. (一)卷,(一)圈;线圈 v. 卷,盘绕
+coin  [k3in]
+n. 硬币,钱币 vt. 创造(新词)
+collapse  [k4'l1ps]
+vi. /n. 倒坍,塌下;崩溃,突然失败
+colleague  ['k3li:g]
+n. 同事
+collect  [k4'lekt]
+vt. 收集;(去)取;收(账,税等),领取 vi. 积聚 adj./adv. 由对方付费
+collection  [k4'lek54n]
+n. 收藏品;收取,收集;聚集,积聚
+collective  [k4'lektiv]
+adj. 集体的,共同的 n. 团体,集体
+collision  [k4'li94n]
+n. 碰撞;冲突,抵触
+colony  ['k3l4ni]
+n. 殖民地;(侨民等)聚居区,聚居地; (动植物)的群体,集群
+column  ['k3l4m]
+n. 柱,圆柱;纵队,直行;栏,专栏(文章)
+comb  [k4um]
+n. 梳子;(鸡等的)肉冠,冠状物 vt. 梳理;在…搜寻,彻底搜查
+combat  ['k3mb1t]
+n. 战斗,斗争,格斗 v. 与…斗争,与…战斗
+combine  [k4m'b2in]
+v. 结合,联合,化合 n. 联合企业(或团体)
+combination  [`k3mbi'nei54n]
+n. 联合(体),结合(体),化合
+comedy  ['k3midi]
+n. 喜剧;喜剧性(事件)
+comfort  ['k8mf4t]
+n. 安慰,慰藉;舒适 vt. 使舒适;安慰,慰问
+comfortable  ['k8mf4t4b4l]
+adj. 舒适的,舒服的;宽裕的,足够的
+command  [k4'ma:nd]
+n. 命令,指示;指挥;控制;掌握,运用能力 vt. 命令,指挥;拥有,掌握;值得,应得;俯临,俯瞰
+commander  [k4'm1nd4, k4'm2:nd4]
+n. 司令官,指挥员
+comment  ['k3ment]
+n. 评论,意见;闲话,议论 vi. 评论
+commerce  ['k3m4:s]
+n. 商业,贸易
+commercial  [k4'm4:54l]
+adj. 商业的,商务的;商品化,商业性的 n. 商业广告
+commission  [k4'mi54n]
+n. 委员会;佣金,回扣;授权,委托 vt. 委任,委托
+commit  [k4'mit]
+vt. 犯(错误、罪行等),干(蠢事、坏事等);(oneself)使承担义务,使承诺;(to)把…托付给,把…置于;调拨…供使用,拨出
+commitment  [k4'mitm4nt]
+n. 承诺,保证;信奉,献身;承担的义务
+committee  [k4'miti]
+n. 委员会
+communicate  [k4'mju:nikeit]
+vi. 交流,交际,通讯;连接,相通 vt. 传达,传播;传染
+communication  [k4`mju:ni'kei54n]
+n. 交流,通讯;(pl.)通信(或交通)工具,交通联系
+communism  ['k3mjuniz4m]
+n. 共产主义
+communist  ['k3mjunist]
+n. 共产主义者,共产党员 adj. 共产主义的,共产党的
+community  [k4'mju:niti]
+n. 社会,社区;团体界;(动植物的)群落
+companion  [k4m'p1ni4n]
+n. 伴侣,同伴
+comparable  ['k3mp4r4bl]
+adj. 比得上的;可比较的;类似的
+comparative  [k4m'p1r4tiv]
+adj. 比较的,相对的
+compare  [k4m'pe4]
+vt. 比较,对照;(to)把…比作 vi. 相比,比得上 n. 比较
+comparison  [k4m'p1ris4n]
+n. (with, to)比较,对照;(to)比拟,比喻
+compass  ['k8mp4s]
+n. 罗盘,罗盘仪;(pl. )圆规;界限,范围
+compel  [k4m'pel]
+vt. 强迫,迫使
+compete  [k4m'pi:t]
+vi. 比赛,竞争
+competent  ['k3mpit4nt]
+adj. 有能力的,能胜任的
+competition  [`k3mpi'ti54n]
+n. 竞争,比赛
+competitive  [k4m'petitiv]
+adj. 竞争的,比赛的;好竞争的,求胜心切的;(价格等)有竞争力的
+complain  [k4m'plein]
+vi. 抱怨,诉苦;投诉,控告
+complaint  [k4m'pleint]
+n.抱怨,诉苦;控告,投诉;疾病
+complex  ['k3mpleks]
+adj. 由许多部分组成的,复合的;复杂的, 难懂的 n. 综合体,集合体;情结,夸大的情绪反应
+complicated  ['k3mplikeitid]
+adj. 复杂的,难懂的
+component  [k4m'p4un4nt]
+n. 成分,元件 adj. 组成的,构成的
+compose  [k4m'p4uz]
+vt. 组成,构成;创作(乐曲、诗歌等),为…谱曲;使平静,使镇静
+composition  [`k3mp4'zi54n]
+n. 构成,成分;结构,布局;作文,作品,乐曲;创作,作曲
+compound  ['k3mpaund, 'k4mp2und]
+n. 化合物,复合物 adj. 化合的,复合的 vt. 使化合,使合成
+comprehension  [`k3mpri'hen54n]
+n. 理解(力);理解力测验
+comprehensive  [`k3mpri'hensiv]
+adj. 广泛的,综合的
+compress  [k4m'pres]
+vt. 压紧,压缩
+comprise  [k4m'pr2iz]
+v. 包含,包括,由…组成;构成,组成
+compromise  ['k3mpr4m2iz]
+n. 妥协,折衷办法 vi. 妥协 vt. 危及,放弃(原则、理想等)
+computer  [k4m'pju:t4]
+n. 计算机,电脑
+comrade  ['k3mr1d, 'k3mrid]
+n. 同志,朋友,同伴
+conceal  [k4n'si:l]
+vt. 隐藏,隐瞒,掩盖
+concede  [k4n'si:d]
+vt. (不情愿的)承认;承认失败;允许,让予 vi. 让步,认输
+concentrate  ['k3ns4ntreit]
+vt. 集中,聚集;浓缩 vi. 全神贯注, 全力以赴;集中,聚集 n. 浓缩物,浓缩液
+concentration  [`k3ns4n'trei54n]
+n.①专注,专心②集中③浓缩,浓度
+concept  ['k3nsept]
+n. 观念,概念,思想
+concern  [k4n's4:n]
+n. 关切的事;关心,担心;关联;公司 vt. 涉及;使关心,使担心
+concerning  [k4n's4:ni6]
+prep. 关于
+concert  ['k3ns4t]
+n. 音乐会,演奏会
+concession  [k4n'se54n]
+n. 让步,妥协;特许,特许权;承认,认可
+conclude  [k4n'klu:d]
+v. 推断出,推论出;结束;缔结,议定
+conclusion  [k4n'klu:94n]
+n. 结论,推论;结尾;缔结,议定
+concrete  ['k36kri:t]
+n. 混凝土 adj. 实在的,具体的
+condemn  [k4n'dem]
+vt. 极力谴责;判…刑,宣告…有罪
+condense  [k4n'dens]
+v. (使)冷凝,(使)凝结;浓缩,压缩,简短
+condition  [k4n'di54n]
+n. 状况,环境,形势;条件 vt. 训练,适应
+conduct  ['k3nd4kt, 'k3nd8kt]
+n. 举止,行为 v. 管理;指挥,引导;(行为)表现;导电,传热
+conductor  [k4n'd8kt4]
+n. (乐队)指挥;(公共汽车等)售票员,列车长;导体
+conference  ['k3nf4r4ns]
+n. (正式)会议;讨论,商谈
+confess  [k4n'fes]
+v. 承认;坦白,供认
+confidence  ['k3nfid4ns]
+n. 信任;信心,自信
+confident  ['k3nfid4nt]
+adj. 确信的,肯定的;有信心的,自信的
+confine  [k4n'f2in]
+vt. (to, within)限制,使局限;使不外出,禁闭;n. (pl. )界限,范围
+confirm  [k4n'f4:m]
+vt. 证实,肯定;进一步确定,确认;批准
+conflict  ['k3nflikt, k4n'flikt]
+n. 争论,抵触,冲突;战斗,战争 vi. 冲突,抵触
+confront  [k4n'fr8nt]
+vt. 面临,遭遇;勇敢地面对,正视;使对质, 使当面对证
+confuse  [k4n'fju:z]
+vt. 使困惑,把…弄糊涂;混淆,混乱
+confusion  [k4n'fju:94n]
+n. 困惑,糊涂;混淆;混乱,骚乱
+congratulate  [k4n'gr1tjuleit]
+vt. (on, upon)祝贺,向…道喜
+congratulation  [k4n`gr1tju'lei54n]
+n. (pl. )贺词;(on)祝贺,恭喜
+congress  ['k36gres]
+n. 代表大会;国会,议会
+conjunction  [k4n'd986k54n]
+n. 接合,连接,联合;连(接)词
+connect  [k4'nekt]
+v. 连接,连结;联系,结合;给…接通电话 vi. 连接,衔接
+connection  [k4'nek54n]
+n. 联系,关系;连接;(pl.)熟人,关系(户)
+conquer  ['k36k4]
+vt. 攻克,征服;破除,克服
+conquest  ['k36kwest]
+n. 攻取,征服,克服
+conscience  ['k3n54ns]
+n. 良心
+conscious  ['k3n54s]
+adj. 意识到的,自觉的;神志清醒的;有意的,存心的
+consent  [k4n'sent]
+n. /vi. (to)准许,同意,赞成
+consequence  ['k3nsikw4ns]
+n. 结果,后果;重要(性),重大
+consequently  ['k3nsikw4ntli]
+ad./v. 因此,所以
+conservation  [`k3ns4'vei54n]
+n. 保存,(自然资源的)保护,避免浪费
+conservative  [k4n's4:v4tiv]
+adj. 保守的,守旧的;(式样等)不 时新的,传统的 n. 保守的人
+consider  [k4n'sid4]
+v. 考虑,细想;认为,把…看作;关心,考虑到
+considerable  [k4n'sid4r4b4l]
+adj. 相当大(或多)的
+considerate  [k4n'sid4rit]
+adj. 体贴的,体谅的
+consideration  [k4n`sid4'rei54n]
+n. 考虑,要考虑的事;体贴,关心
+consist  [k4n'sist]
+vi. (of) 组成,构成;(in)存在于
+consistent  [k4n'sist4nt]
+adj. 一致的,符合的;坚持的,一贯的
+constant  ['k3nst4nt]
+adj. 始终如一的;不断的;忠实的,忠诚的 n. 常数,恒量
+constitute  ['k3nstitju:t]
+vt. 组成,构成,形成;设立,建立,任命
+constitution  [`k3nsti'tju:54n]
+n. 章程,宪法;体质,素质;组成,设立
+construct  [k4n'str8kt]
+vt. 构筑,建造;对…进行构思,造(句);n. 建筑物;构思,观念
+construction  [k4n'str8k54n]
+n. 建造,建设;建造物;建筑物;结构
