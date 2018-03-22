@@ -1,0 +1,50 @@
+
+OBJECT = /main.o /Shell.o  /Processor.o /Pattern.o /Query.o /Quiz.o /Recite.o /MainPattern.o /Test.o /Log.o 
+DIREC = -I../source/
+
+all: main.o Shell.o lib.dll Processor.o Pattern.o Query.o Quiz.o Recite.o MainPattern.o Test.o Log.o test.exe 
+
+lib.dll: Word.o DataBase.o
+	g++ /Word.o /DataBase.o -o/lib.dll -shared -fPIC
+
+test.exe: $(OBJECT)
+	g++ -o test.exe $(OBJECT) -std=c++11 -L./ -llib
+
+main.o:
+	g++ -o /main.o -c ../source/main.cpp $(DIREC) -std=c++11
+
+Shell.o:
+	g++ -o /Shell.o -c ../source/Shell.cpp ${DIREC} -std=c++11
+
+Word.o: 
+	g++ -o /Word.o -c ../source/Word.cpp ${DIREC} -std=c++11
+
+Processor.o:
+	g++ -o /Processor.o -c ../source/Processor.cpp ${DIREC} -std=c++11
+
+DataBase.o:
+	g++ -o /DataBase.o -c ../source/DataBase.cpp ${DIREC} -std=c++11
+
+Pattern.o:
+	g++ -o /Pattern.o -c ../source/Pattern.cpp ${DIREC} -std=c++11
+
+Query.o:
+	g++ -o /Query.o -c ../source/Query.cpp ${DIREC} -std=c++11
+
+Quiz.o:
+	g++ -o /Quiz.o -c ../source/Quiz.cpp ${DIREC} -std=c++11
+
+Recite.o:
+	g++ -o /Recite.o -c ../source/Recite.cpp ${DIREC} -std=c++11
+
+MainPattern.o:
+	g++ -o /MainPattern.o -c ../source/MainPattern.cpp ${DIREC} -std=c++11
+
+Test.o:
+	g++ -o /Test.o -c ../source/Test.cpp ${DIREC} -std=c++11
+
+Log.o:
+	g++ -o /Log.o -c ../source/Log.cpp ${DIREC} -std=c++11
+
+clean:
+	del /*.o
